@@ -1,0 +1,10 @@
+On the terminal type:
+
+python3 viterbi.py <arg1>
+
+where arg1 = the input sequence
+
+Output : 
+the input sequence
+the most probable sequence
+the probability of the most probable sequence
